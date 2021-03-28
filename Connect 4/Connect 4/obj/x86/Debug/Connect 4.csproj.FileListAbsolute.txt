@@ -1,0 +1,87 @@
+C:\Users\Munteanu\AppData\Local\Temporary Projects\Connect 4\bin\Debug\Connect 4.exe
+C:\Users\Munteanu\AppData\Local\Temporary Projects\Connect 4\bin\Debug\Connect 4.pdb
+C:\Users\Munteanu\AppData\Local\Temporary Projects\Connect 4\obj\x86\Debug\Connect_4.joc.resources
+C:\Users\Munteanu\AppData\Local\Temporary Projects\Connect 4\obj\x86\Debug\Connect_4.Properties.Resources.resources
+C:\Users\Munteanu\AppData\Local\Temporary Projects\Connect 4\obj\x86\Debug\Connect 4.csproj.GenerateResource.Cache
+C:\Users\Munteanu\AppData\Local\Temporary Projects\Connect 4\obj\x86\Debug\Connect 4.exe
+C:\Users\Munteanu\AppData\Local\Temporary Projects\Connect 4\obj\x86\Debug\Connect 4.pdb
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.exe
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.pdb
+F:\Connect 4\Connect 4\bin\Debug\Connect 4.exe
+F:\Connect 4\Connect 4\bin\Debug\Connect 4.pdb
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.joc.resources
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Properties.Resources.resources
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csproj.GenerateResource.Cache
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csprojResolveAssemblyReference.cache
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.exe
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.pdb
+E:\Connect 4\Connect 4\bin\Debug\Connect 4.exe
+E:\Connect 4\Connect 4\bin\Debug\Connect 4.pdb
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csprojResolveAssemblyReference.cache
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.joc.resources
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Properties.Resources.resources
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csproj.GenerateResource.Cache
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.exe
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.pdb
+H:\Connect 4\Connect 4\bin\Debug\Connect 4.exe
+H:\Connect 4\Connect 4\bin\Debug\Connect 4.pdb
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csprojResolveAssemblyReference.cache
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.joc.resources
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Properties.Resources.resources
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csproj.GenerateResource.Cache
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.exe
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.pdb
+D:\Connect 4\Connect 4\bin\Debug\Connect 4.exe
+D:\Connect 4\Connect 4\bin\Debug\Connect 4.pdb
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.joc.resources
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Properties.Resources.resources
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.start.resources
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.start.resources
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player1castig2P.resources
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player2castig2P.resources
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.remiza2P.resources
+H:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.start.resources
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player1castig.resources
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player2castig.resources
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.remiza.resources
+F:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.computer.resources
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.computer.resources
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player1castig.resources
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player2castig.resources
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.remiza.resources
+E:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.start.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.exe
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.pdb
+G:\Connect 4\Connect 4\bin\Debug\Connect 4.exe
+G:\Connect 4\Connect 4\bin\Debug\Connect 4.pdb
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csprojResolveAssemblyReference.cache
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.computer.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.joc.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player1castig.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player2castig.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Properties.Resources.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.remiza.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.start.resources
+G:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csproj.GenerateResource.Cache
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csprojResolveAssemblyReference.cache
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.computer.resources
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player1castig.resources
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player2castig.resources
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.remiza.resources
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csproj.GenerateResource.Cache
+D:\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Help.resources
+D:\Leptop\Connect 4\Connect 4\bin\Debug\Connect 4.exe
+D:\Leptop\Connect 4\Connect 4\bin\Debug\Connect 4.pdb
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csprojAssemblyReference.cache
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.computer.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Help.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.joc.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player1castig.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.player2castig.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.Properties.Resources.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.remiza.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect_4.start.resources
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csproj.GenerateResource.cache
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect 4.csproj.CoreCompileInputs.cache
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect 4.exe
+D:\Leptop\Connect 4\Connect 4\obj\x86\Debug\Connect 4.pdb
